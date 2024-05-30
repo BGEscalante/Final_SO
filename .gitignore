@@ -1,0 +1,15 @@
+# Entornos de desarrollo
+venv/
+__pycache__/
+
+# Archivos de configuración de entornos de desarrollo
+*.env
+
+# Archivos de salida
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

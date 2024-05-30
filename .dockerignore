@@ -1,0 +1,16 @@
+# Ignora entornos virtuales
+venv/
+__pycache__/
+
+# Ignora archivos de configuración de entornos de desarrollo
+*.env
+
+# Ignora archivos de salida
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
